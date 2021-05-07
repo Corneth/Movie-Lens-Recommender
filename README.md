@@ -17,4 +17,4 @@ As you can see above there are a total of 19 different genre categories, but tha
 ![alt text](Pictures/Peer-peer.PNG)
 
 # Conclusion:
-Thank you for your time!
+Since this is a simple recommender system, there are some limitations to it. One of the major flaws to it is that if a user rating items has not supplied enough ratings then the system defaults to the mean of all the ratings which is something that can be done in future updates. you can always set up the recommender to take the first 25 or more ratings from the user to also suppliment that instead of updating it in other means. Another limitation that I have seen is that I have seen is the last release year to the movies is 2018, which means there is a whole 3 years of movies and ratings that we don't have access to so updated data is always a good thing to have. also with the release years it has alot of movies that are from before 1990 that are not heard of really so a great thing to have would be a picture of the movies to show what it looks like which is a good future works.
